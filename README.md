@@ -37,8 +37,8 @@ A comprehensive online examination platform built with React, TypeScript, and Su
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/bharatkr8923-pixel/Radly.io.git
+cd Radly.io-main
 ```
 
 2. Install dependencies:
