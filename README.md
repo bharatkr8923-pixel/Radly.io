@@ -25,7 +25,6 @@ A comprehensive online examination platform built with React, TypeScript, and Su
 - **Routing**: React Router v7
 - **Styling**: Tailwind CSS
 - **State Management**: Zustand
-- **Backend**: Supabase (Database, Authentication, Row Level Security)
 - **Build Tool**: Vite
 - **Icons**: Lucide React
 
@@ -33,7 +32,6 @@ A comprehensive online examination platform built with React, TypeScript, and Su
 
 - Node.js (v18 or higher)
 - npm or yarn
-- Supabase account
 
 ## Installation
 
