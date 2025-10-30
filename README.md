@@ -1,4 +1,4 @@
-# Exam Management System
+# Exam Management System (Radily.io)
 
 A comprehensive online examination platform built with React, TypeScript, and Supabase. This application enables teachers to create and manage exams while students can take tests and track their performance.
 
